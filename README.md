@@ -201,4 +201,4 @@
   </tr>
 </table>
 
-<i>italic</i> indicates that the flap function is applied to the features.
+The flap function is applied to the layers in <i>italic</i>.
