@@ -200,8 +200,7 @@
     <td>shop</td>
     <td colspan='8'></td>
     <td colspan='2'>shop</td>
-  </tr>
-</table>
+  </tr></table>
 
 
 ## Note
