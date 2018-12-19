@@ -200,8 +200,8 @@
     <td>shop</td>
     <td colspan='8'></td>
     <td colspan='2'>shop</td>
-  </tr></table>
-
-
-## Note
-The flap function is applied to the layers in <i>italic</i>.
+  </tr>
+  <tr>
+    <td colspan='11'>The flap function is applied to the layers in <i>italic</i>.</td>
+  </tr>
+</table>
