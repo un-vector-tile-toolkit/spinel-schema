@@ -145,43 +145,60 @@
     <td colspan='5'><i>leisure</i></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>amenity</td>
+    <td colspan='8'></td>
+    <td colspan='2'><i>amenity</li></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>historic</td>
+    <td colspan='7'></td>
+    <td colspan='3'><i>historic</i></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>military</td>
+    <td colspan='7'></td>
+    <td colspan='3'><i>military</i></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>man_made</td>
+    <td colspan='7'></td>
+    <td colspan='3'>man_made</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>power</td>
+    <td colspan='7'></td>
+    <td colspan='3'>power</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>sport</td>
+    <td colspan='7'></td>
+    <td colspan='3'>sport</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>office</td>
+    <td colspan='7'></td>
+    <td colspan='3'>office</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>craft</td>
+    <td colspan='8'></td>
+    <td colspan='2'>craft</td>
   </tr>
-</table>  
+  <tr>
+    <td>public_transport</td>
+    <td colspan='5'></td>
+    <td colspan='5'><i>public_tranport</i></td>
+  </tr>
+  <tr>
+    <td>tourism</td>
+    <td colspan='8'></td>
+    <td colspan='2'>tourism</td>
+  </tr>
+  <tr>
+    <td>shop</td>
+    <td colspan='8'></td>
+    <td colspan='2'>shop</td>
+  </tr>
+</table>
+
+<i>italic</i> indicates that the flap function is applied to the features.
