@@ -1,4 +1,4 @@
-## The Vector Tile Schema for spinel
+## The Vector Tile Schema from spinel
 
 <table>
   <tr>
