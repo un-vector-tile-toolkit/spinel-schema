@@ -1,3 +1,4 @@
+## The Vector Tile Schema for spinel
 <table>
   <tr>
     <th>data zoom level</th>
@@ -201,4 +202,5 @@
   </tr>
 </table>
 
+## Note
 The flap function is applied to the layers in <i>italic</i>.
